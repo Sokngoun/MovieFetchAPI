@@ -23,6 +23,12 @@ body {
   justify-content: center;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 h2 {
   background-color: aqua;
 }
